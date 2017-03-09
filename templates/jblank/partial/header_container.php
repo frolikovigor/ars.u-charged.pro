@@ -82,7 +82,7 @@
                     <span class="item__link_hidden">Подарочные сертификаты</span>
                 </li>
                 <li class="main-nav__item">
-                    <a class="item__link" href="shop.html">Магазин</a>
+                    <a class="item__link" href="/shop">Магазин</a>
                     <span class="item__link_hidden">Магазин</span>
                 </li>
                 <li class="main-nav__item">

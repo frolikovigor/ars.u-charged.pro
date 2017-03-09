@@ -62,7 +62,7 @@
                         <!--<span class="item__link_point-hover"></span>-->
                     </li>
                     <li class="main-nav__item main-nav__item_footer">
-                        <a class="item__link item__link_footer" href="#">Магазин</a>
+                        <a class="item__link item__link_footer" href="/shop">Магазин</a>
                         <span class="item__link_hidden item__link_hidden--footer">Магазин</span>
                     </li>
                     <li class="main-nav__item main-nav__item_footer">
